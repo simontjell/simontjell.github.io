@@ -1,3 +1,1 @@
-## Welcome to SimonTjell.dk
-
-More to come...
+Start page: index.html
